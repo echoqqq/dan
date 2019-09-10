@@ -14,8 +14,7 @@
         height: auto;
         position: fixed;
         bottom: 0;
-        z-index: 999;
-
+        z-index: 33;
     }
     #Bottom>img{
         width: 100%;

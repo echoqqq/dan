@@ -4,7 +4,7 @@
             <span>
                 <img src="https://public.danke.com.cn/public-20171228-FjTtnKSKO0QnS4PiivwOHIMZslgq" alt="">
             </span>
-            <input type="text" placeholder="输入您想住的区域，商圈或小区名称">
+            <input type="text">
         </div>
         <span class="iconfont">&#xe68f;</span>
     </div>
@@ -17,14 +17,14 @@
 <style>
     #search{
         width: 100%;
-        height: 88px;
+        height: .8rem;
         display: flex;
         justify-content: space-around;
         align-items: center;
     }
     .input{
         width: 5.6rem;
-        height: 70px;
+        height: .7rem;
         border-radius: 2rem;
         overflow: hidden;
         display: flex;
@@ -47,7 +47,7 @@
     }
     .input>input{
         width: 4.5rem;
-        height: 100%;
+        height: .7rem;
         border:none;
         outline: none;
         font-size: .24rem;
